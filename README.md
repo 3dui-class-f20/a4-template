@@ -35,6 +35,7 @@ All of the 2D UI for this application should fit within a single 2D panel.  In b
 
 *VR View.*  When in VR, the menu should be bound to one of the buttons on one of the controllers (Y on the Quest, the left small menu button on Windows MR).  When the button is pressed, the menu should appear in the middle of the screen;  when the menu is visible, pressing the button will hide it.  The challenge of this part of the assignment is that when the menu is visible, if the user looks away from it such that it goes off screen, it should slide into view again, smoothly rotating around the user.  An example of this behavior is the Windows MR system menu, shown here:
 
+<img src="https://3dui-class-f20.github.io/assets/images/WindowsMR-menu.gif" width=720>
 ![Windows MR system menu](https://3dui-class-f20.github.io/assets/images/WindowsMR-menu.gif)
 
 In this example, notice that the menu stays in the same pace when the user looks a small amount to the left right, up and down.  But when the user looks further, such that the menu starts to go off screen, the menu rotates around the user back to the center of the screen.
