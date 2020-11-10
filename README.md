@@ -83,7 +83,7 @@ Up to 2 bonus points will be awarded for particularly compelling applications an
 
 # Collaboration
 
-You are free to discuss technical questions and issues in the Teams channels, but the code you submit should be your own.  So, please do not post large chunks of code, but providing pointers to examples or documentation pages or components and methods, along with discussion of how to use them, is fine.
+You are free to discuss technical questions and issues in the Teams channels, but the code you submit should be your own. So, please do not post large chunks of code, but providing pointers to examples or documentation pages or components and methods, along with discussion of how to use them, is fine.  Pointers to resources you are using is fine, too.
 
 # Submission
 
